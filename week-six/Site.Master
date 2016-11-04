@@ -61,7 +61,7 @@
         <!-- Daytime picker -->
         <script src="bootstrap-datetimepicker-master/js/bootstrap-datetimepicker.min.js"></script>
         <!-- Custom JS -->
-        <script src="styles.js"></script>
+        <script src="js/scripts.js"></script>
     <!-- =============================== -->
 
 </body>
